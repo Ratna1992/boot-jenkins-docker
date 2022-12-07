@@ -18,6 +18,7 @@ public class DockerJenkinsController {
 		hashMap.put("name", "Ratna Srinivasa Rao Karicherla");
 		hashMap.put("subject", "Docker Jenkins");
 		hashMap.put("goal", "Mastering Jenkins CI/CD with docker ....");
+		hashMap.put("confidence", "***");
 		return hashMap;
 	}
 }
